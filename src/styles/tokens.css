@@ -1,0 +1,42 @@
+:root {
+  --ink-900: #0b121a;
+  --ink-850: #0e1620;
+  --ink-830: #101a24;
+  --ink-800: #131e29;
+  --ink-750: #182430;
+  --ink-700: #1d2b38;
+  --ink-650: #223140;
+
+  --line: #2a3b4c;
+  --line-soft: #223140;
+  --line-strong: #3a5368;
+
+  --paper: #e8edf2;
+  --paper-soft: #f4f7fa;
+  --paper-line: rgba(30, 45, 59, 0.24);
+
+  --blue: #5b9dff;
+  --blue-soft: #7bb0ff;
+  --blue-dim: #24405c;
+  --blue-wash: rgba(91, 157, 255, 0.12);
+  --copper: #d9a05b;
+  --danger: #e4756f;
+  --danger-soft: #f0a29c;
+  --success: #7fd1c1;
+
+  --text: #e8edf2;
+  --text-2: #9fb3c4;
+  --text-3: #6e8294;
+
+  --font-display: 'Space Grotesk', 'Inter', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-body: 'Inter', 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+
+  --radius-lg: 14px;
+  --radius: 10px;
+  --radius-sm: 7px;
+
+  --header-h: 64px;
+  --sidebar-w: 244px;
+  --detail-w: 324px;
+}
